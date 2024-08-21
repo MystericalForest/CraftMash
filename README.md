@@ -7,6 +7,3 @@
 - **Overvågning i realtid:** Følg brygprocessen med live-data og få advarsler ved eventuelle afvigelser.
 - **Integration med eksisterende udstyr:** CraftMash kan nemt integreres med de fleste små bryggerisystemer.
 - **Brugervenligt interface:** Intuitiv brugerflade, der gør det nemt at styre komplekse brygningsprocesser.
-
-## Kom i gang:
-1. Klon repoen:
